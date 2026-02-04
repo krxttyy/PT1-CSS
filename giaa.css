@@ -83,6 +83,11 @@ ul li a:hover {
   text-align: center;
 }
 
+.content1 {
+  padding: 20px 22px;
+  text-align: left;
+}
+
 .video {
   display: block;
   margin: 20px auto;
@@ -109,6 +114,16 @@ ul li a:hover {
     gap: 20px;
 }
 
+.card1 {
+    background: #213a63;
+    padding: 22px;
+    margin-bottom: 25px;
+    border-radius: 14px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+
+    display: flex;
+}
+
 img {
     width: 100%;
     max-width: 420px;
@@ -133,3 +148,4 @@ img {
 
     .gallery img:hover {
         transform: scale(1.05);}
+
